@@ -1,0 +1,8 @@
+U dad mom girl boy man woman
+R (dad dad) (mom mom) (girl girl) (boy boy) (man man) (woman woman)
+R (dad boy) (dad girl) (mom boy) (mom girl)
+R (dad man) (boy man) (mom woman) (girl woman)
+C reflexive 2
+C symmetric 3
+C antisymmetric 2
+C transitive 2
